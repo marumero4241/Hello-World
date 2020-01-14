@@ -4,4 +4,4 @@
  - fix-B
  - feature-C
  - feature-D
- - case-output-gituub
+ - case-output-github
